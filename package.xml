@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+	<name>detector</name>
+	<version>0.1.0</version>
+	<maintainer email="javilin05@gmail.com">Javier Melero Deza</maintainer>
+	<license>BSD</license>
+	<description>Detector for crop fields</description>
+	<buildtool_depend>catkin</buildtool_depend>
+	<depend>cv_bridge</depend>
+	<depend>geometry_msgs</depend>
+	<depend>rospy</depend>
+	<depend>sensor_msgs</depend>
+	<depend>std_msgs</depend>
+	<depend>belief_manager_msgs</depend>
+</package>
